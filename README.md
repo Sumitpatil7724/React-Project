@@ -1,4 +1,4 @@
-# React Router Project Starter
+
 ## Languages and Tools
 - JavaScript
 - React.js
